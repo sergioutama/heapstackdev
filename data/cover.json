@@ -1,0 +1,9 @@
+{
+  "title": "We take our `Craft` seriously",
+  "description": "We believe that Software is everlasting and neverending pursuit of perfection. We aim to solve problem with the right tools in a right way",
+  "illustration": "freelancing.svg",
+  "button": {
+    "text": "Contact Us",
+    "href": "#contact"
+  }
+}
