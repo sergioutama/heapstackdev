@@ -6,9 +6,10 @@
       "description": "Co-Founder. Full Stack Developer, Mobile & Frontend Specialist",
       "avatar": "sergio.jpg",
       "social": {
-        "facebook": "https://facebook.com/damn",
-        "instagram": "https://instagram.com/damn",
-        "linkedin": "https://linkedin.com/add/damn"
+        "facebook": "https://facebook.com/sergioutama",
+        "instagram": "https://instagram.com/srg.io",
+        "linkedin": "https://linkedin.com/in/sergioutama",
+        "github": "https://github.com/sergioutama"
       }
     },
     {
@@ -16,9 +17,8 @@
       "description": "Co-Founder. Full Stack Developer, Backend Specialist",
       "avatar": "hasyimi.png",
       "social": {
-        "twitter": "https://twitter.com/damn",
-        "instagram": "https://instagram.com/damn",
-        "dribbble": "https://dribbble.com/add/damn"
+        "facebook": "https://facebook.com/hasyimibhar",
+        "github": "https://github.com/hasyimibhar"
       }
     }
   ]
