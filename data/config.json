@@ -1,4 +1,4 @@
 {
-  "components": ["cover", "features", "team", "clients", "contact"],
+  "components": ["cover", "features", "team", "contact"],
   "email": "sergio.utama@gmail.com"
 }
