@@ -2,7 +2,7 @@ baseURL: https://heapstack.dev/
 languageCode: en-us
 title: HeapsTack Dev
 theme: hugo-lime
-publishDir: docs
+
 params:
   navbarlogo:
     # Logo (from /images/logos/___)
