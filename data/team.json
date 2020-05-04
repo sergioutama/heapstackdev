@@ -1,0 +1,25 @@
+{
+  "title": "Brain behind the craft",
+  "members": [
+    {
+      "name": "Sergio",
+      "description": "Co-Founder. Full Stack Developer, Mobile & Frontend Specialist",
+      "avatar": "sergio.jpg",
+      "social": {
+        "facebook": "https://facebook.com/sergioutama",
+        "instagram": "https://instagram.com/srg.io",
+        "linkedin": "https://linkedin.com/in/sergioutama",
+        "github": "https://github.com/sergioutama"
+      }
+    },
+    {
+      "name": "Hasyimi",
+      "description": "Co-Founder. Full Stack Developer, Backend Specialist",
+      "avatar": "hasyimi.png",
+      "social": {
+        "facebook": "https://facebook.com/hasyimibhar",
+        "github": "https://github.com/hasyimibhar"
+      }
+    }
+  ]
+}
