@@ -1,0 +1,3 @@
+[submodule "themes/lime"]
+	path = themes/lime
+	url = https://github.com/uicardiodev/hugo-lime.git
