@@ -1,8 +1,9 @@
 baseURL: https://heapstack.dev/
 languageCode: en-us
 title: HeapsTack Dev
-theme: hugo-lime
-
+theme: lime
+module:
+  module.imports
 params:
   navbarlogo:
     # Logo (from /images/logos/___)
