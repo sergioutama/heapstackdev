@@ -27,5 +27,4 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-echo www.heapstack.dev >> public/CNAME
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
